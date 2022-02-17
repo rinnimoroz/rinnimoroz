@@ -1,0 +1,30 @@
+<rdf:RDF
+    xml:lang="ru"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:ya="http://blogs.yandex.ru/schema/foaf/"
+    xmlns:img="http://blogs.yandex.ru/schema/foaf/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <foaf:Person>
+    <ya:publicAccess>allowed</ya:publicAccess>
+    <ya:profileState>active</ya:profileState>
+    <ya:URI ya:primary="yes" rdf:resource="http://vk.com/id37276902"/>
+    <ya:firstName>Ирка</ya:firstName>
+    <ya:secondName>Рожкова</ya:secondName>
+    <foaf:name>Ирка Рожкова</foaf:name>
+    <foaf:weblog
+        dc:title=""
+        rdf:resource="http://vk.com/id37276902"/>
+    <ya:created dc:date="2009-04-30T19:43:24+03:00"/>
+    <ya:lastLoggedIn dc:date="2022-02-12T01:38:43+03:00"/>
+    <ya:subscribersCount>311</ya:subscribersCount>
+    <foaf:img>
+      <foaf:Image ya:primary="yes" img:width="200" img:height="200"
+          rdf:about="https://sun1-92.userapi.com/s/v1/if1/eBsZfPCnODH-IpwBTJTDaK3iKinFV002CAN_OC9smZIXXiBQOTIUiAuqCYfx2UI7Cx5P5_r5.jpg?size=200x200&quality=96&crop=156,179,490,490&ava=1">
+        <foaf:thumbnail img:width="100" img:height="100" rdf:resource="https://sun1-92.userapi.com/s/v1/if1/xIczc2j-xUUhP977T-P-aHW1YE1kpn5WUOnk-WuajxfHLikLPk2Yvi1DjOa-KVfvSL-S9car.jpg?size=100x100&quality=96&crop=156,179,490,490&ava=1"/>
+        <foaf:thumbnail img:width="50" img:height="50" rdf:resource="https://sun1-92.userapi.com/s/v1/if1/OasM13SwM6zq0KW5xArmab2ygQ6ucIHOTGDTm7yPJVD3UZNewo4whhawyqvVfTUZhtYHWWt8.jpg?size=50x50&quality=96&crop=156,179,490,490&ava=1"/>
+      </foaf:Image>
+    </foaf:img>
+  </foaf:Person>
+</rdf:RDF>
